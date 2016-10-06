@@ -1,7 +1,7 @@
-Adafruit Python SSD1306
-=======================
+Adafruit Python SSD1306 and SSD1331
+===================================
 
-Python library to use SSD1306-based 128x64 or 128x32 pixel OLED displays with a Raspberry Pi or Beaglebone Black.
+Python library to use SSD1306-based 128x64 or 128x32, or SSD1331 96x64 pixel OLED displays with a Raspberry Pi or Beaglebone Black.
 
 Designed specifically to work with the Adafruit SSD1306-based OLED displays ----> https://www.adafruit.com/categories/98
 
